@@ -3,6 +3,11 @@
 
 # In[116]:
 
+'''
+Works on FER2013 Dataset
+
+'''
+
 from __future__ import print_function
 from keras.callbacks import ModelCheckpoint
 from keras.preprocessing.image import ImageDataGenerator
